@@ -1,0 +1,6 @@
+*.png
+*.jpg
+.DS_Store
+node_modules
+.RData
+.Rhistory
